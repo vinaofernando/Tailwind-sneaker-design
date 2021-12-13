@@ -22,31 +22,49 @@ class App extends React.Component {
         <div className="container w-4/5 h-4/5 rounded-3xl shadow-3xl relative z-10 bg-inherit overflow-hidden flex flex-col font-sans">
           <nav className=" md:flex justify-between px-10 py-5 font-bold">
             <ul className="md:flex text-white">
-              <li className="mx-5 flex items-center bg-red-400 p-1 rounded-xl">
-                Home
+              <li className="mx-5 flex items-center bg-red-400 p-2 rounded-xl">
+                <a href="#">Home</a>
               </li>
-              <li className="mx-5 flex items-center">Old models</li>
-              <li className="mx-5 flex items-center">New</li>
-              <li className="mx-5 flex items-center">About</li>
+              <li className="mx-5 flex items-center">
+                <a href="#">Old models</a>
+              </li>
+              <li className="mx-5 flex items-center">
+                <a href="#">New</a>
+              </li>
+              <li className="mx-5 flex items-center">
+                <a href="#">About</a>
+              </li>
             </ul>
-            <ul className="flex text-white">
+            <ul className="mt-4 flex text-white md:flex text-white">
               <li className="mx-5 flex items-center">
-                <FaShoppingCart />
+                <a href="#">
+                  <FaShoppingCart />
+                </a>
               </li>
               <li className="mx-5 flex items-center">
-                <FaSearch />
+                <a href="#">
+                  <FaSearch />
+                </a>
               </li>
               <li className="mx-5 flex items-center">
-                <FaUserAlt />
+                <a href="#">
+                  <FaUserAlt />
+                </a>
               </li>
             </ul>
           </nav>
           <div className="flex font-bold h-full items-center relative">
             <div className="flex text-white flex-col text-2xl w-12 h-full justify-center">
-              <FaInstagram className="m-3" />
+              <a href="#">
+                <FaInstagram className="m-3" />
+              </a>
 
-              <FaFacebook className="m-3" />
-              <FaTwitter className="m-3" />
+              <a href="#">
+                <FaFacebook className="m-3" />
+              </a>
+              <a href="#">
+                <FaTwitter className="m-3" />
+              </a>
             </div>
             <div className="flex flex-col w-full">
               <div className="sm:flex flex-col text-white text-sm mb-4 md:text-white w-full px-8 mb-24 ">
