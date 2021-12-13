@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Tailwind-sneaker-design/static/css/main.2800da5f.chunk.css",
-    "main.js": "/Tailwind-sneaker-design/static/js/main.32af5704.chunk.js",
-    "main.js.map": "/Tailwind-sneaker-design/static/js/main.32af5704.chunk.js.map",
+    "main.css": "/Tailwind-sneaker-design/static/css/main.f47e0346.chunk.css",
+    "main.js": "/Tailwind-sneaker-design/static/js/main.5fb99889.chunk.js",
+    "main.js.map": "/Tailwind-sneaker-design/static/js/main.5fb99889.chunk.js.map",
     "runtime-main.js": "/Tailwind-sneaker-design/static/js/runtime-main.c7203608.js",
     "runtime-main.js.map": "/Tailwind-sneaker-design/static/js/runtime-main.c7203608.js.map",
     "static/js/2.f791b9c0.chunk.js": "/Tailwind-sneaker-design/static/js/2.f791b9c0.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.348ce9e5.chunk.js": "/Tailwind-sneaker-design/static/js/3.348ce9e5.chunk.js",
     "static/js/3.348ce9e5.chunk.js.map": "/Tailwind-sneaker-design/static/js/3.348ce9e5.chunk.js.map",
     "index.html": "/Tailwind-sneaker-design/index.html",
-    "static/css/main.2800da5f.chunk.css.map": "/Tailwind-sneaker-design/static/css/main.2800da5f.chunk.css.map",
+    "static/css/main.f47e0346.chunk.css.map": "/Tailwind-sneaker-design/static/css/main.f47e0346.chunk.css.map",
     "static/js/2.f791b9c0.chunk.js.LICENSE.txt": "/Tailwind-sneaker-design/static/js/2.f791b9c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c7203608.js",
     "static/js/2.f791b9c0.chunk.js",
-    "static/css/main.2800da5f.chunk.css",
-    "static/js/main.32af5704.chunk.js"
+    "static/css/main.f47e0346.chunk.css",
+    "static/js/main.5fb99889.chunk.js"
   ]
 }
